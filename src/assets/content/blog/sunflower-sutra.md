@@ -1,8 +1,8 @@
 ---
 title: Sunflower Sutra
-author: Allen Ginsberg
+author: Watson & Crick
 date: 2019-07-31T07:00:00.000+00:00
-hero_image: "/src/assets/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+hero_image: "/src/assets/content/images/kunj-parekh-H69EgivmCjE-unsplash.jpg"
 
 ---
 As I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
