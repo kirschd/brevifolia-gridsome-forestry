@@ -1,5 +1,5 @@
 ---
-title: Song of Myself
+title: Song of Myself..
 author: Walt Whitman
 date: 2019-07-19T07:00:00Z
 hero_image: "/src/assets/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
